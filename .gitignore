@@ -1,0 +1,18 @@
+# Visual studio leftovers
+*.suo
+*.ncb
+*.user
+*.ccscc
+*.cache
+
+# Editor leftovers
+*~
+*.bak
+\#*\#
+*.orig
+
+# Compiled files
+*/bin/
+*/obj/
+*/Obj/
+*Generated_Code/
